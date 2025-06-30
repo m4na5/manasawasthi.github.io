@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://manasawasthi.github.io/",
+  "homepage": "https://m4na5.github.io/manasawasthi.github.io",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
